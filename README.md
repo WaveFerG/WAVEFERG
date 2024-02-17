@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/drizzle knight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="drizzle knight" height="30" width="40" /></a>
+<a href="[https://fb.com/drizzle knight](https://www.facebook.com/profile.php?id=100069847459082)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="drizzle knight" height="30" width="40" /></a>
 <a href="https://instagram.com/wavefer_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wavefer_g" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/wavefer g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wavefer g" height="30" width="40" /></a>
 </p>
