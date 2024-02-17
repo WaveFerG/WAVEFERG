@@ -1,12 +1,8 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm WaveFerG</h1>
+<h1 align="center">Hi , I'm Soradech ,Welcome to my github profile 👋/h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 - 🌱 I’m currently learning **KUKPS**
-
-- 🤝 I’m looking for help with **Everyone**
-
-- 💬 Ask me about **I'am handsome**
 
 - 📫 How to reach me **waveziizaakub@gmail.com**
 
